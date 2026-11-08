@@ -1,0 +1,12 @@
+city,petrol_per_l,diesel_per_l,cng_per_kg,electricity_per_kwh
+Delhi,94.72,87.62,76.09,8
+Mumbai,103.5,90.03,77,10
+Bengaluru,102.86,88.94,89,8
+Chennai,100.8,92.39,91.5,7.5
+Kolkata,105.41,92.02,92,8
+Hyderabad,107.46,95.7,95,8
+Ahmedabad,94.49,90.17,76.98,7.5
+Pune,104.04,90.57,87,9
+Jaipur,104.72,90.21,86,7.5
+Lucknow,94.69,87.8,92,7
+Jamnagar,106.6,98.34,102.3,8
